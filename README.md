@@ -1,4 +1,4 @@
-# BOSH Lite
+# BOSH Lite tor@openstack.eti.br
 
 * Slack: #bosh on <https://slack.cloudfoundry.org>
 * Mailing lists:
